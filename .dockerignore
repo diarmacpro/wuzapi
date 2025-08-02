@@ -3,8 +3,7 @@
 .github
 
 # Development files
-.env
-.env.*
+
 *.log
 .tool-versions
 
